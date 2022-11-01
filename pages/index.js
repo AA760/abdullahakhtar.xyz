@@ -56,7 +56,7 @@ export default function Home() {
         <div>
           <h3 className='text-3xl py-1 text-teal-600'>Project Work</h3>
           <p className='text-md py-5 leading-8 text-stone-200 text-xl'>
-        Below you can see an overview of a recent project I completed for my final year in university. If you would like to see the source code for this project 
+        Below, you can see an overview of a recent project I completed for my final year in university. If you would like to see the source code for this project 
         simply click the tile below. You can also view my GitHub profile by clicking <span className='text-teal-400'><a target="_blank" rel="noopener noreferrer" href="https://github.com/AA760">here</a></span> or using the button at the top
         of this page.
           </p>
