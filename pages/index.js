@@ -26,7 +26,7 @@ export default function Home() {
             </div>
             <div className='lg:flex md:flex'>
               <div><a className='text-neutral-700 hover:bg-neutral-600 text-4xl flex gap-5 py-3 px-5' href="#"><BsFillFileEarmarkTextFill size={45}/>CV</a></div>
-              <div><a className='text-neutral-700 hover:bg-neutral-600 text-4xl flex gap-5 py-3 px-5' href="https://github.com/AA760"><AiFillGithub size={45}/>GitHub</a></div>
+              <div><a className='text-neutral-700 hover:bg-neutral-600 text-4xl flex gap-5 py-3 px-5' target="_blank" rel="noopener noreferrer" href="https://github.com/AA760"><AiFillGithub size={45}/>GitHub</a></div>
             </div>
           </div>
         </div>
