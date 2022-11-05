@@ -1,3 +1,3 @@
-My personal website which will provide information about me and showcase some of my projects.
+My personal website which provides information about me and shows some of my projects.
 
 Link to the hosted website can be found [here](https://abdullahakhtar.xyz).
